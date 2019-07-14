@@ -1,0 +1,46 @@
+.topBar{
+/* Top Bar */
+position: absolute;
+background-color: black;
+width: 1920px;
+height: 98px;
+left: 0px;
+top: 86px;
+}
+
+.text{
+position: absolute;
+    
+/*font-family: oswald, sans-serif;*/
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 82px;
+
+color: #FFFFFF;
+}
+
+.activeText{
+position: absolute;
+width: 137px;
+height: 98px;
+left: 513px;
+top: 86px;
+
+/*font-family: oswald, sans-serif;*/
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 82px;
+
+color: #60D9FF;
+}
+
+.portfolio{
+width: 193px;
+height: 98px;
+left: 709px;
+top: 86px;
+}
